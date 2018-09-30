@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+#include "NPC.h"
 
 
 int main()
 {
-    return 0;
+	system("PAUSE");
 }
 
