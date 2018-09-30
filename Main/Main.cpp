@@ -8,6 +8,7 @@
 
 int main()
 {
+
 	system("PAUSE");
 }
 

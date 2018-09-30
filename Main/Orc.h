@@ -3,7 +3,7 @@
 #include <string>
 #include <iostream>
 
-class Orc:public NPC
+class Orc: public NPC
 {
 	std::string name;
 public:
